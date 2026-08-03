@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OLA Car</title>
+</head>
+<body>
+
+    <h1>OLA Car</h1>
+
+    <a href="https://www.olacabs.com" target="_blank">
+        <img src="ola-car.jpg" alt="OLA Car" width="500">
+    </a>
+
+</body>
+</html>
