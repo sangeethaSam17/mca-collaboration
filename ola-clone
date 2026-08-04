@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ola Clone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <h2>OLA</h2>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Book Ride</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Book Your Ride in Minutes</h1>
+        <p>Fast, Safe and Affordable Rides</p>
+        <button>Book Now</button>
+    </section>
+
+    <!-- Booking Form -->
+    <section class="booking">
+        <h2>Book a Ride</h2>
+
+        <form>
+            <input type="text" placeholder="Enter Pickup Location" required>
+            <input type="text" placeholder="Enter Drop Location" required>
+
+            <select>
+                <option>Mini</option>
+                <option>Prime Sedan</option>
+                <option>Auto</option>
+                <option>Bike</option>
+            </select>
+
+            <button type="submit">Confirm Booking</button>
+        </form>
+    </section>
+
+    <!-- Services -->
+    <section class="services">
+        <h2>Our Services</h2>
+
+        <div class="card">
+            <h3>Bike</h3>
+            <p>Affordable bike rides for quick travel.</p>
+        </div>
+
+        <div class="card">
+            <h3>Auto</h3>
+            <p>Comfortable auto rides within the city.</p>
+        <div class="card">
+            <p>Safe and premium cab rides anytime.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+    </footer>
+
+	<p>customer review</p>
+</body>
+</html>       
