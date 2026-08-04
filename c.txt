@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rapido</title>
+</head>
+<body>
+
+    <h1>Rapido</h1>
+
+    <a href="https://www.rapido.bike" target="_blank">
+        <img src="rapido.jpg" alt="Rapido Bike" width="500">
+    </a>
+
+</body>
+</html>

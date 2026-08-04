@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Plant Image</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ficus_benjamina.jpg"
+     alt="Plant"
+     width="300">
+
+</body>
+</html>
